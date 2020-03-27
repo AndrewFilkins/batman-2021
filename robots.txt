@@ -1,2 +1,2 @@
 User-Agent: *
-Disallow: 
+Disallow: https://andrewfilkins.github.io/batman-2021/
